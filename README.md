@@ -1,4 +1,4 @@
-# POC — Kubernetes do zero em 2026 (
+# POC — Kubernetes do zero em 2026 
 
 
 Objetivo: subir um cluster de três nós na sua máquina, colocar uma aplicação no ar com as boas práticas que a maioria dos tutoriais pula, e **quebrar tudo de propósito** para aprender a diagnosticar.
