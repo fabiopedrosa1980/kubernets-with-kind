@@ -1,6 +1,5 @@
-# Laboratório — Kubernetes do zero em 2026 (TBX Tech)
+# POC — Kubernetes do zero em 2026 (
 
-Repositório do vídeo **"Kubernetes do zero em 2026: seu primeiro cluster na prática"** — canal [@ToolboxTechnology](https://www.youtube.com/@ToolboxTechnology).
 
 Objetivo: subir um cluster de três nós na sua máquina, colocar uma aplicação no ar com as boas práticas que a maioria dos tutoriais pula, e **quebrar tudo de propósito** para aprender a diagnosticar.
 
@@ -78,6 +77,3 @@ O controller `kubernetes/ingress-nginx` foi **aposentado em março de 2026** —
 
 Service e DNS interno → ConfigMap e Secret → volumes → Gateway API → Helm → cloud gerenciada (EKS/GKE/AKS).
 
----
-
-Continue a trilha em [treinamentos.tbxtech.com.br](https://treinamentos.tbxtech.com.br) · [Discord da comunidade](https://discord.gg/dKPeKFsBE3)
