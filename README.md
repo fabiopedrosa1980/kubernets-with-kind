@@ -10,7 +10,6 @@ Objetivo: subir um cluster de três nós na sua máquina, colocar uma aplicaçã
 - `kind` ([instalação](https://kind.sigs.k8s.io/docs/user/quick-start/))
 - ~8 GB de RAM livre
 
-> Kubernetes **não** é requisito de vaga de entrada. Se você está começando em TI, veja antes o vídeo *"Roadmap DevOps 2026: do zero ao primeiro emprego"*.
 
 ## 1. Subir o cluster
 
